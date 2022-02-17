@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+  <Dictionary Language="English">
+    <String Key="Language.English" Value="English" />
+    <String Key="Language.ChineseSimplified" Value="Chinese Simplified" />
+    <String Key="Language.ChineseTraditional" Value="Chinese Traditional" />
+    <String Key="Language.Korean" Value="Korean" />
+    <String Key="CheckVersion.Tips" Value="Checking if the game needs update. Please wait..." />
+    <String Key="UpdateResource.Tips" Value="{0}/{1}, {2}/{3}, {4:P0}, {5}/s" />
+  </Dictionary>
+</Dictionaries>

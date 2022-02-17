@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/UnityTutorialInfo/Scenes/OfficalSampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 0
+    path: Assets/UnityTutorialInfo/Scenes/GameEntry.unity
+    guid: 1d722292ef85109489381a8680b6c4e4
+  - enabled: 0
+    path: Assets/UnityTutorialInfo/Scenes/Demo2_Menu.unity
+    guid: 9c44a21a73de4d34bbd9b593dea7ca11
+  - enabled: 0
+    path: Assets/UnityTutorialInfo/Scenes/Demo2_Game.unity
+    guid: 1215f5142a029ba43911312e9db5484f
+  - enabled: 1
+    path: Assets/GameMain/Scenes/LaputaLauncher.unity
+    guid: 479541f0b5bc4da4aa0637dca5f3631f
+  - enabled: 1
+    path: Assets/GameMain/Scenes/Main.unity
+    guid: 8fc54ed450f2ec84ba86bfa8f3774f3e
+  - enabled: 1
+    path: Assets/GameMain/Scenes/Menu.unity
+    guid: 4c11ab99903534542a4429b53ee02bca
+  - enabled: 1
+    path: Assets/GameMain/Scenes/Town.unity
+    guid: 775895da86486ce49b7bb9761e9bb2a5
+  m_configObjects: {}

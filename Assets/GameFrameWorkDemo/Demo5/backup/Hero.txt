@@ -1,0 +1,5 @@
+#	config file test
+#	int	string	int
+#	ID	name	attact
+	1	normal	1
+	2	critical	9
